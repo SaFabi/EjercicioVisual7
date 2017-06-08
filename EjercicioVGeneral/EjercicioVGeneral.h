@@ -1,5 +1,6 @@
 #pragma once  //______________________________________ EjercicioVGeneral.h  
 #include "Resource.h"
+#include "AngelDlg.h"
 class EjercicioVGeneral : public Win::Dialog
 {
 public:
